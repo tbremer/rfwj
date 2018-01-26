@@ -7,6 +7,8 @@ This is a 0 config, get-started-quickly opinionated repo for spinning up a React
 
 ## To use:
 
+_this quick rundown assumes you have Node installed and a working knowledge of React, documentation links on the bottom if you want_
+
 - Start all the things
   - `$ git clone https://github.com/tbremer/rfwj.git`
 - Remove all the `gits`
@@ -31,7 +33,7 @@ This is a 0 config, get-started-quickly opinionated repo for spinning up a React
 
 - [React](https://reactjs.org/)
 - [Flow](https://flow.org/)
-- [Webpack](webpack.js.org)
+- [Webpack](https://webpack.js.org)
   - Plugins:
     - [`html-webpack-plugin`](https://github.com/jantimon/html-webpack-plugin)
   - Loaders:
